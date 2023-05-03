@@ -1,0 +1,28 @@
+{
+  "name": "array-utils",
+  "version": "1.0.0",
+  "description": "functions for working with arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariozon/Project-B9.5.1.git"
+  },
+  "keywords": [],
+  "author": "kamal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ariozon/Project-B9.5.1/issues"
+  },
+  "homepage": "https://github.com/Ariozon/Project-B9.5.1#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  }
+}
